@@ -18,9 +18,9 @@
 
 </div>
 
-## ✨ Features
+---
 
-<div align="center">
+## ✨ Features
 
 ```mermaid
 mindmap
@@ -42,57 +42,52 @@ mindmap
        Email Contact
       Project Showcase
       GitHub API for Contributions
-</div>
 🚀 Demo
 Experience the live portfolio at https://portfolio-nikhil.vercel.app
 
 🛠️ Installation
 1️⃣ Clone the repository:
-
 bash
 Copy
 Edit
 git clone https://github.com/njangid22/portfolio
 2️⃣ Navigate to the project directory:
-
 bash
 Copy
 Edit
 cd portfolio
 3️⃣ Install dependencies:
-
 bash
 Copy
 Edit
 npm install
 4️⃣ Run the development server:
-
 bash
 Copy
 Edit
 npm run dev
 5️⃣ Open in your browser:
-
 Visit http://localhost:3000
 💻 Tech Stack
-<table align="center"> <tr> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /> <br>React </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" /> <br>Vite </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" /> <br>Tailwind CSS </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=threejs" width="48" height="48" alt="Three.js" /> <br>Three.js </td> </tr> </table>
+Technology	Description
+	Frontend framework
+	Fast build tool for React
+	Utility-first CSS framework
+	3D animations and graphics
+Version control system
 ⚡ Core Features
 📱 Responsive Design
-
-Fully optimized for all screen sizes.
-Adaptive layouts for a seamless browsing experience.
+Mobile-first approach for seamless experience across devices.
+Adaptive layouts and dynamic UI elements.
 🎯 Dynamic Content
-
 Interactive project showcase with GitHub repository links.
-Detailed experience section with real-world projects.
+Experience and skills section with real-world applications.
 🎨 Modern UI/UX
-
-Smooth animations powered by Framer Motion.
-Clean, intuitive, and professional design.
-Engaging 3D elements using Three.js.
+Framer Motion animations for smooth transitions.
+Intuitive navigation and sleek UI.
+Clean and professional layout.
 ✉️ Email Integration
-
-Contact form using EmailJS for direct communication.
+Contact form powered by EmailJS for direct communication.
 🏆 Featured Projects
 Flipkart Grid 6.0 - AI Grocery Management System
 🚀 Tech Stack: React, Node.js, Express, Tesseract OCR, EfficientNet
@@ -120,12 +115,17 @@ SIH ByteCode - AI-Powered Farmer Assistance Platform
 MIT License © Nikhil Jangid
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/> </div> ```
-Changes & Improvements:
-Updated the banner to reflect your portfolio title.
-Added new sections:
-Live Demo Link to direct users to the deployed version.
-Project Showcase featuring your major projects.
-GitHub API Integration (mentioned in features).
-More relevant and engaging descriptions to make it more professional.
-Added Framer Motion animations mention since you use smooth animations.
-Improved Technical Stack & Features Layout for better readability.
+✅ What I Updated:
+Optimized Formatting:
+
+Better structured features list using Mermaid diagrams.
+Proper GitHub Markdown formatting for installation steps.
+Table format for Tech Stack.
+Enhanced Project Showcase:
+
+Added GitHub & Live Demo Links where applicable.
+More detailed project descriptions.
+Clear Sectioning:
+
+Headings & Bullet Points make it easier to read.
+Improved license formatting.
