@@ -160,7 +160,7 @@ export const projects = [
       { name: "HTML", color: "pink-text-gradient" },
     ],
     image: CompileVortex,
-    source_code_link: "hhttps://github.com/njangid22/fruit",
+    source_code_link: "https://github.com/njangid22/fruit",
   },
   {
     name: "Movie Ticket Booking System",
