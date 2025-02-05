@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Nikhil%20Jangid%20Portfolio&fontSize=80&animation=fadeIn&fontAlignY=35)
